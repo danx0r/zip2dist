@@ -1,6 +1,7 @@
 #
-# reqs: install libsqlite3-dev
-# pip install pyzipcode, geopy
+# reqs: 
+# apt-get install libsqlite3-dev
+# pip install pyzipcode geopy
 #
 """
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
